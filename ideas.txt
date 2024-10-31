@@ -1,0 +1,5 @@
+Ideas:
+
+- Attention
+- More skip connections in GraphUNet 
+- Increasing HR reconstruction weight
